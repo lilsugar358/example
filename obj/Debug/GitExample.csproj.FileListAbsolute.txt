@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Програмування\GitExample\bin\Debug\GitExample.exe.config
+C:\Users\user\Desktop\Програмування\GitExample\bin\Debug\GitExample.exe
+C:\Users\user\Desktop\Програмування\GitExample\bin\Debug\GitExample.pdb
+C:\Users\user\Desktop\Програмування\GitExample\obj\Debug\GitExample.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Програмування\GitExample\obj\Debug\GitExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Програмування\GitExample\obj\Debug\GitExample.Form1.resources
+C:\Users\user\Desktop\Програмування\GitExample\obj\Debug\GitExample.Properties.Resources.resources
+C:\Users\user\Desktop\Програмування\GitExample\obj\Debug\GitExample.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Програмування\GitExample\obj\Debug\GitExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Програмування\GitExample\obj\Debug\GitExample.exe
+C:\Users\user\Desktop\Програмування\GitExample\obj\Debug\GitExample.pdb
